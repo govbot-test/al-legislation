@@ -1,0 +1,43 @@
+Title: 7 c. File a report with a law enforcement agency or the
+Official Title: 7 c. File a report with a law enforcement agency or the
+Number of Sections: 1
+Source: versions - Woods motion to Adopt - Adopted Roll Call 921
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+KHI32UU-1 : 3/11/2026 : JWB
+1ST WOODS AMENDMENT TO HB303
+OFFERED BY SENATOR WOODS
+1
+2
+3
+4
+5 Replace lines 234 through 237 on page 9 with the
+6 following:
+8 commission regarding the fraudulently induced
+9 transaction.
+Page 1
+[DELETED: Rfcct]
+
+
+================================================================================
+
+Raw Text:
+KHI32UU-1 : 3/11/2026 : JWB
+1ST WOODS AMENDMENT TO HB303
+OFFERED BY SENATOR WOODS
+1
+2
+3
+4
+5 Replace lines 234 through 237 on page 9 with the
+6 following:
+7 c. File a report with a law enforcement agency or the
+8 commission regarding the fraudulently induced
+9 transaction.
+Page 1
+
+[DELETED: Rfcct]
