@@ -1,0 +1,39 @@
+Title: 5 Replace lines 44 through 45 on page 2 with the following:
+Official Title: 5 Replace lines 44 through 45 on page 2 with the following:
+Number of Sections: 1
+Source: versions - Figures motion to Adopt - Adopted Roll Call 654
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+JP1XZNY-1 : 2/19/2026 : EGC
+1ST STATE GOVERNMENTAL AFFAIRS AMENDMENT TO HB213
+OFFERED BY SENATOR CARNLEY
+1
+2
+3
+4
+6 Section 4. This act shall become effective
+7 immediately.
+Page 1
+[DELETED: RSi]
+
+
+================================================================================
+
+Raw Text:
+JP1XZNY-1 : 2/19/2026 : EGC
+1ST STATE GOVERNMENTAL AFFAIRS AMENDMENT TO HB213
+OFFERED BY SENATOR CARNLEY
+1
+2
+3
+4
+5 Replace lines 44 through 45 on page 2 with the following:
+6 Section 4. This act shall become effective
+7 immediately.
+Page 1
+
+[DELETED: RSi]

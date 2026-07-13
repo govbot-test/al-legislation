@@ -1,0 +1,37 @@
+Title: 5 Replace lines 35 through 54 on page 2 with the following:
+Official Title: 5 Replace lines 35 through 54 on page 2 with the following:
+Number of Sections: 1
+Source: versions - Ensler motion to Table - Adopted Roll Call 1276
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+ARF2VSS-1 : 4/8/2026 : ZAK
+1ST SMITH AMENDMENT TO SB361
+OFFERED BY REPRESENTATIVE SMITH
+1
+2
+3
+4
+6 structure with a logging chain.
+Page 1
+[DELETED: Rs]
+
+
+================================================================================
+
+Raw Text:
+ARF2VSS-1 : 4/8/2026 : ZAK
+1ST SMITH AMENDMENT TO SB361
+OFFERED BY REPRESENTATIVE SMITH
+1
+2
+3
+4
+5 Replace lines 35 through 54 on page 2 with the following:
+6 structure with a logging chain.
+Page 1
+
+[DELETED: Rs]
