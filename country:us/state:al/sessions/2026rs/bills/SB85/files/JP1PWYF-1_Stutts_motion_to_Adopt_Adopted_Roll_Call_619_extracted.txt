@@ -1,0 +1,49 @@
+Title: 6 (g) If an emergency occurs within a valid VCPR and
+Official Title: 6 (g) If an emergency occurs within a valid VCPR and
+Number of Sections: 1
+Source: versions - Stutts motion to Adopt - Adopted Roll Call 619
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+JP1PWYF-1 : 2/18/2026 : ZAK
+1ST STUTTS AMENDMENT TO SB85
+OFFERED BY SENATOR STUTTS
+1
+2
+3
+4
+5 Replace line 364 on page 13 with the following:
+7 the veterinarian who established the original VCPR is not
+8 available to examine the patient, the veterinarian may
+9 communicate the changes in protocol to the client by
+10 means of telemedicine and provide consultation, issue
+11 recommendations, or refer the client to another licensed
+12 veterinarian.
+Page 1
+[DELETED: R(tac0m1r2v]
+
+
+================================================================================
+
+Raw Text:
+JP1PWYF-1 : 2/18/2026 : ZAK
+1ST STUTTS AMENDMENT TO SB85
+OFFERED BY SENATOR STUTTS
+1
+2
+3
+4
+5 Replace line 364 on page 13 with the following:
+6 (g) If an emergency occurs within a valid VCPR and
+7 the veterinarian who established the original VCPR is not
+8 available to examine the patient, the veterinarian may
+9 communicate the changes in protocol to the client by
+10 means of telemedicine and provide consultation, issue
+11 recommendations, or refer the client to another licensed
+12 veterinarian.
+Page 1
+
+[DELETED: R(tac0m1r2v]

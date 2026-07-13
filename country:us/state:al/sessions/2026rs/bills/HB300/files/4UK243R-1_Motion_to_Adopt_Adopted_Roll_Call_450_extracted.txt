@@ -1,0 +1,43 @@
+Title: 5 Replace lines 21 through 22 on page 1 with the following:
+Official Title: 5 Replace lines 21 through 22 on page 1 with the following:
+Number of Sections: 1
+Source: versions - Motion to Adopt - Adopted Roll Call 450
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+4UK243R-1 : 2/5/2026 : JC
+1ST HOLK-JONES AMENDMENT TO HB300
+OFFERED BY REPRESENTATIVE HOLK-JONES
+1
+2
+3
+4
+6 necessary and appropriate examination of the
+7
+8 Replace lines 54 through 55 on page 2 with the following:
+9 necessary and appropriate examination of the
+Page 1
+[DELETED: RnRn]
+
+
+================================================================================
+
+Raw Text:
+4UK243R-1 : 2/5/2026 : JC
+1ST HOLK-JONES AMENDMENT TO HB300
+OFFERED BY REPRESENTATIVE HOLK-JONES
+1
+2
+3
+4
+5 Replace lines 21 through 22 on page 1 with the following:
+6 necessary and appropriate examination of the
+7
+8 Replace lines 54 through 55 on page 2 with the following:
+9 necessary and appropriate examination of the
+Page 1
+
+[DELETED: RnRn]
